@@ -1,4 +1,4 @@
-<h1 align="center">Site de receitas</h1>
+<h1 align="center">Site de receitas da alura</h1>
  
 ![home](https://user-images.githubusercontent.com/90348798/178893462-84838091-2b50-483f-baf3-7614e45016fe.png)
 
